@@ -7,7 +7,7 @@ For some background information during the summer of 2024 around late august I h
 
 At the time I already took a flight to Florida for a family reunion with my cousins. Then after I came back I worked at an elementary school for around six weeks. (WHERE I CAUGHT THE FLU). 
 
-
+<img src="images/airplane.jpg" alt="airplane >
 
 So when I heard that suddenly I was heading back to Florida after I worked my last day I was exhausted. So naturally my response was to spend one day in between NOT packing my bag. Instead I (like many others would) decided to play games, rest and other things.
 
@@ -21,6 +21,7 @@ THE ISSUE
 The problem came when it was time to leave. This time I was fully packed before we left and we were able to get to the gate on time and waited for the plane to board.
 
 ### **THE FIRST**
+
 
 This flight was early as well leaving at 6:45 AM. After a majority of the passengers had boarded, My brother and I went up to the counter to ask about seats. 
 
