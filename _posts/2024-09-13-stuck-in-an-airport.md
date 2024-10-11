@@ -7,6 +7,8 @@ For some background information during the summer of 2024 around late august I h
 
 At the time I already took a flight to Florida for a family reunion with my cousins. Then after I came back I worked at an elementary school for around six weeks. (WHERE I CAUGHT THE FLU). 
 
+<img  alt="airplane" src="/images/airplane.png">
+
 So when I heard that suddenly I was heading back to Florida after I worked my last day I was exhausted. So naturally my response was to spend one day in between NOT packing my bag. Instead I (like many others would) decided to play games, rest and other things.
 
 However my flight was supposed to be at 5AM and my mother, who was driving me and my brother to the airport, would leave super early. And knowing this I made the decision to just stay up all night. 
@@ -28,6 +30,8 @@ The crew had made It clear that the flight was fully booked. However that wasn't
 
 Waiting a while longer it was revealed that there was only one free seat left on the flight. Deciding not to split up we declined the seat and made our way over to the next gate.
 
+<img title="The first ticket" alt="boarding pass" src="/images/thefirst.png">
+
 ### **THE SECOND**
 
 The next flight was scheduled to leave at 7:10 AM. We walked over to the airport and repeated our process. We waited until a majority of people boarded the plane then approached the front desk of this gate. 
@@ -36,3 +40,4 @@ Once again we were informed that there was only one available seat. Yet there we
 
 In my mind it seemed like this would be the opportunity to get on this flight. This time we were around 5 and 6 on the list. (this part is from memory)
 
+<img title="The second ticket" alt="boarding pass" src="/images/second??.png">
