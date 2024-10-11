@@ -7,7 +7,7 @@ For some background information during the summer of 2024 around late august I h
 
 At the time I already took a flight to Florida for a family reunion with my cousins. Then after I came back I worked at an elementary school for around six weeks. (WHERE I CAUGHT THE FLU). 
 
-![airplane](/images/airplane.png)
+
 
 So when I heard that suddenly I was heading back to Florida after I worked my last day I was exhausted. So naturally my response was to spend one day in between NOT packing my bag. Instead I (like many others would) decided to play games, rest and other things.
 
