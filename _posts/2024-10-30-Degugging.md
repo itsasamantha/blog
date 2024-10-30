@@ -2,7 +2,7 @@
 
 
 ### Introduction
-If you ever in your life encountered a piece of code more likely than not you're going to have to do some debugging. Debugging is the action of removing errors or **bugs** from a program. This might sound like a hard and tedious task but its a lot easier than it seems.
+If you ever in your life encountered a piece of code more likely than not you're going to have to do some debugging. Debugging is the action of removing errors or **bugs** from a program. This might sound like a hard and tedious task but it's a lot easier than it seems.
 
 
 This blog post will walk you through the basics of debugging and the types of errors to look out for.
