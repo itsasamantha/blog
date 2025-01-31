@@ -2,7 +2,7 @@
 
 ### INTRODUCTION
 
-Despite being basic components, for myself and a lot of other writers, finding a satisfactory beginning middle and ending to a short story can be difficult. Especially if the idea just came to you without a full plot being developed. It can also be annoying and sometimes boring to work on the same story for a while. Burnout is expeted to happen and forgetting what made you want to write is common. 
+Despite being basic components, for myself and a lot of other writers, finding a satisfactory beginning, middle and ending to a short story can be difficult. Especially if the idea just came to you without a full plot being developed. It can also be annoying and sometimes boring to work on the same story for a while. Burnout is expeted to happen and forgetting what made you want to write is common. 
 
 Here I will compile my tips and tricks I have gathered through my noexistent writing career.
 
